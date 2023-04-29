@@ -76,7 +76,7 @@ Observable.just(2)
 
 ## Author
 
-outofcoding, outofcoding@gmail.com
+Donghyuk Lee, mrgamza@gmail.com
 
 ## License
 
